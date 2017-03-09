@@ -1,0 +1,5 @@
+#!/system/bin/sh
+
+cd /
+cd /data/ettercap
+./ettercap "$@"
